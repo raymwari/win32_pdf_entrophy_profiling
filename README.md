@@ -2,9 +2,9 @@
 Pdf stream entropic profiling via Shannon entropy
 
 # Prerequisites:
-https://www.nasm.us
-https://www.godevtool.com
-https://sourceforge.net/projects/mingw-w64/
+https://www.nasm.us <br>
+https://www.godevtool.com  <br>
+https://sourceforge.net/projects/mingw-w64/ <br>
 
 # shannon.dll:
 Ensure your running the correct version gcc : `gcc --version` <br>
