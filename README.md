@@ -24,7 +24,7 @@ __Custom codes:__ <br>
 `1703`: stream length exceeded `100kb` (consider increasing this length from source) <br>
 `1704`: heap memory allocation failed
 
-# Important:
+## Important:
 Program expects a maximum length of `256` __unique__ characters in each stream <br>
 Scores below `40` indicate low entropy, values `40` to `60` medium entropy, `60` to `100` high entropy and beyond `100` very high entropy <br>
 
