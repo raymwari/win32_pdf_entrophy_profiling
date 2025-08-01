@@ -6,7 +6,7 @@ https://www.nasm.us
 https://www.godevtool.com
 https://sourceforge.net/projects/mingw-w64/
 
-# Compiling shannon.dll
+# shannon.dll:
 Ensure your running the correct version gcc (32 bit): <br>
 `gcc --version` <br>
 
