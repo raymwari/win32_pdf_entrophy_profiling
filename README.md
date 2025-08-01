@@ -21,7 +21,7 @@ https://learn.microsoft.com/en-us/windows/win32/debug/system-error-codes--0-499-
 __Custom codes:__ <br>
 `1701`: `target.pdf` contains no data <br>
 `1702`: `target.pdf` contains no compressed data <br>
-`1703`: stream length exceeded `100kb` (consider increasing this length from source) <br>
+`1703`: stream length may have exceeded `100kb` (consider increasing this length from source) <br>
 `1704`: heap memory allocation failed
 
 ## Important:
