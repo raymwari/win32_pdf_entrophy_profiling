@@ -12,7 +12,8 @@ Ensure your running the correct version gcc (32 bit): <br>
 
 <img width="1366" height="298" alt="Screenshot (111)" src="https://github.com/user-attachments/assets/8a7fd209-2a8d-40b4-b605-c2434d74b90d" />
 
-Compile dll: <br>
+
+__Compile dll:__ <br>
 `gcc -Wall -Wextra -Werror -shared -o shannon.dll main.c` <br>
 
 # Error codes (check stderr):
