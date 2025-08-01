@@ -18,7 +18,7 @@ __Compile dll:__ <br>
 # Error codes (check stderr):
 https://learn.microsoft.com/en-us/windows/win32/debug/system-error-codes--0-499-
 
-__Custom codes:__
+__Custom codes:__ <br>
 `1701`: `target.pdf` contains no data <br>
 `1702`: `target.pdf` contains no compressed data <br>
 `1703`: stream length exceeded `100kb` (consider increasing this length from source) <br>
@@ -28,7 +28,7 @@ __Custom codes:__
 Program expects a maximum length of `256` __unique__ characters in each stream <br>
 Scores below `40` indicate low entropy, values `40` to `60` medium entropy, `60` to `100` high entropy and beyond `100` very high entropy <br>
 
-__Shannon method__:
+__Shannon method__: <br>
 H(X) = -∑ p(xᵢ) * log₂(p(xᵢ)) <br>
 
 # Demo:
