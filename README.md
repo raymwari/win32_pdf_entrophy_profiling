@@ -7,7 +7,7 @@ https://www.godevtool.com
 https://sourceforge.net/projects/mingw-w64/
 
 # shannon.dll:
-Ensure your running the correct version gcc (32 bit): `gcc --version` <br>
+Ensure your running the correct version gcc : `gcc --version` <br>
 
 <img width="1366" height="298" alt="Screenshot (111)" src="https://github.com/user-attachments/assets/8a7fd209-2a8d-40b4-b605-c2434d74b90d" /> <br>
 
