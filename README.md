@@ -1,4 +1,4 @@
-# win32_pdf_entropic_profiling
+# win32_pdf_entrophy_profiling
 Pdf stream entropic profiling via Shannon entropy
 
 ## Prerequisites:
