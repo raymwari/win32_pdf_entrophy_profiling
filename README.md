@@ -1,5 +1,5 @@
-# win32_pdf_entrophy_profiling
-Pdf stream entrophy profiling via Shannon entropy
+# win32_pdf_entropy_profiling
+Pdf stream entropy profiling via Shannon entropy
 
 ## Prerequisites:
 https://www.nasm.us <br>
